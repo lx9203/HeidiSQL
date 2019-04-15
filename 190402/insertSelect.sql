@@ -1,0 +1,1 @@
+rename table member to member_table;
